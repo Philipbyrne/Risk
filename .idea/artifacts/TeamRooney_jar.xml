@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeamRooney:jar">
+    <output-path>$PROJECT_DIR$/../Documents</output-path>
+    <root id="archive" name="TeamRooney.jar">
+      <element id="module-output" name="Risk" />
+    </root>
+  </artifact>
+</component>
